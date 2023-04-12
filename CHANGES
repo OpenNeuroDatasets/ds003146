@@ -1,3 +1,5 @@
+1.0.2 2023-04-12
+  - added sub- to participants.tsv to comply with BIDS specifications
 1.0.1 2020-09-15
   - added descriptions
 
