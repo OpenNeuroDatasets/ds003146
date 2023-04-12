@@ -1,0 +1,17 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"ScanningSequence": "EP_GR",
+	"SequenceVariant": "SS",
+	"SeriesDescription": "fMRI_vocal",
+	"ProtocolName": "fMRI_vocal",
+	"ImageType": ["ORIGINAL", "PRIMARY", "EPI", "NONE"],
+	"AcquisitionDateTime": "2014-10-25T14:48:20.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.04,
+	"RepetitionTime": 3,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.8.4",
+    "SliceTiming": [0,1.5349,0.0697674,1.60467,0.139535,1.67444,0.209302,1.74421,0.279069,1.81398,0.348836,1.88375,0.418603,1.95352,0.48837,2.02329,0.558137,2.09306,0.627904,2.16283,0.697671,2.2326,0.767438,2.30237,0.837205,2.37214,0.906972,2.44191,0.976739,2.51168,1.04651,2.58145,1.11628,2.65122,1.18605,2.72099,1.25582,2.79076,1.32559,2.86053,1.39536,2.9303,1.46513]
+}
