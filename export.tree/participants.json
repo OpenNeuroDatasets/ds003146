@@ -1,9 +1,0 @@
-{
-    "Group": {
-        "Description": "Musician or not",
-        "Levels": {
-            "Musician": "Musician",
-            "NonMusician": "Non-musician"
-        }
-    }
-}
